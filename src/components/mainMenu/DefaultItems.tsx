@@ -134,7 +134,6 @@ export const Socials = () => (
     </DropdownMenuItem>
   </>
 );
-
 Socials.displayName = "Socials";
 
 export const LiveCollaboration = ({
